@@ -2,7 +2,8 @@
 
 **`Software Engineering Student`**
 
-<p>Welcome, as stated at the top my name is Broxton and I am currently a student studying software engineering. More information as you go down.</p><br>
+<p>Welcome, as stated at the top my name is Broxton and I am currently a student studying software engineering. More information as you go down.</p>
+
 ---
 
 ### 🐿 Languages and Tools
@@ -18,7 +19,12 @@
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /><br><br><br>
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+
+<br><br><br>
+
+---
+
 <details>
   <summary><h3>📜 Programming Journey</h3></summary>
   <p>
@@ -29,7 +35,3 @@
     Now, I am exploring what projects I can create with a variety of programming languages and tools. I’ve spent hundreds of hours on assignments, but they don’t feel substantial enough to help me land a job. Realizing this, and after facing rejections from internships, I’ve decided to use my ambition to do everything I can to secure an internship for my final summer as a college student.
   </p>
 </details>
-
-
-          
-          
