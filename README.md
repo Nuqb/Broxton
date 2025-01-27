@@ -3,7 +3,7 @@
 **`Software Engineering Student`**
 
 <p>Welcome, as stated at the top my name is Broxton and I am currently a student studying software engineering. More information as you go down.</p><br>
-
+---
 
 ### 🐿 Languages and Tools
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
