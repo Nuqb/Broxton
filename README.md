@@ -6,4 +6,4 @@ I am currently a student studying software engineering. My main goal is to land 
 ---
 
 ### 🐿 Languages and Tools
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
