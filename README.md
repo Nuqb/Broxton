@@ -2,8 +2,8 @@
 
 **`Software Engineering Student`**
 
-Welcome, as stated at the top my name is Broxton and I am currently a student studying software engineering. More information as you go down.
----
+<p>Welcome, as stated at the top my name is Broxton and I am currently a student studying software engineering. More information as you go down.</p><br>
+
 
 ### 🐿 Languages and Tools
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -18,11 +18,9 @@ Welcome, as stated at the top my name is Broxton and I am currently a student st
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-#
-
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /><br><br><br><br>
 <details>
-  <summary><h3>Programming Journey</h3></summary>
+  <summary><h3>📜 Programming Journey</h3></summary>
   <p>
     Ever since I can remember, I have loved creating and building. It didn’t really matter what it was—whether it was a paper airplane when I was bored in class or some cool-looking piece of wood from shop class. My fascination with programming began when I discovered mods for video games like Halo: Combat Evolved. It was fascinating to see how anyone could code something and change the game. That’s where I started. I turned on a computer and watched a YouTube tutorial on how to use the software, only to quickly realize that my ten-year-old brain had no idea what I was reading or doing.
     <br><br>
